@@ -33,3 +33,6 @@ Hypothesis:
 6 - The financial success of a movie is positively affected by releasing it during a holiday season, leading to higher worldwide box office revenue compared to releasing the same movie on a non-holiday day.
 
 7 - The profitability at the box office is positively influenced by movies with ratings of G, PG, and PG-13
+
+
+(This was done in a group assignment)
